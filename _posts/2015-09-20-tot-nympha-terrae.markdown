@@ -3,7 +3,7 @@ layout: post
 title:  "Tot nympha terrae"
 date:   2015-09-20 11:14:32
 categories: jekyll update
-featured: true
+tags: snippet
 ---
 ## Eadem noctes placat Thetidis munere nostro coniugis
 
