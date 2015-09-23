@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Et Myrrhae iam morus"
+date:   2015-09-21 11:14:32
+categories: blog
+featured: true
+tags: layout design
+---
+## Fumos ignibus
+
+Lorem markdownum umbras candore sit ardet fecundior per sulcavitque mitisque
+nobis pariter quibus accommodat a certa artificum ignoscere voces dicens. *Et*
+servatos exemploque clamore gentisque inpia, erat me quibus. Pharetratae viribus
+nec ore pomaria Iovis dea, et curvae inficit deprensa minantia, picae,
+quantumque?
+
+Canis minorque, curis ictu occidit iugulum, et *quot* quamlibet umbras et colla,
+concutit. Animi tot conde nocte, ima matris fecit; ceciderat flamma dimovit?
+Modo periclis comitata, Olympus cum *attulerat parte quod* tua. Vivaque haec
+illam illa intravit, inde at verbisque fronti Stygias.
+
+Corpore nec vires quae hosti, in quae forsitan! Incensaque ipso esse ergo deo
+conparentis hastam at equidem rupit propinquas aura in citharae dedistis tractu?
+Ipsa totiens *dolentem repperit* velit? Agri adnuerat vidisse. Nec fecit non
+[nihil a ornat](http://html9responsiveboilerstrapjs.com/) arbor dextra, abstulit
+accipe.
+erfide nunc
