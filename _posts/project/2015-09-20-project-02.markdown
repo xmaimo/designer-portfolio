@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Tot nympha terrae"
+title:  "Project 02"
 date:   2015-09-20 11:14:32
 categories: project
+featured_image: "/images/project.png"
 tags: snippet
 ---
 ## Eadem noctes placat Thetidis munere nostro coniugis

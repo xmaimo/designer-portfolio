@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Vaga possem"
+title:  "Project 01"
 date:   2015-09-19 11:14:32
 categories: project
+featured_image: "/images/project.png"
 tags: design
 ---
 ## Pro non de nati liberat densa lecti
